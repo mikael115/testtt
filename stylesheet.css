@@ -1,7 +1,7 @@
 p {
-  text-align: center;
+  text-align:center;
   margin: 8px;
-  margin-top: 1px;
+  /*margin-top: 1px;*/
   color: #008080;
   font-size: large;
   font-weight: bold;
@@ -10,4 +10,26 @@ p {
 .tyoginyan {
   text-align:center;
   margin-top: 15px;
+  margin-bottom: 25px;
+}
+.aokanSite {
+  text-align:center;
+  margin-top: 15px;
+}
+
+.explanation {
+  font-size: 17px;
+}
+
+.challenge {
+  text-align:center;
+  color: #008080;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+a {
+  color: #008080;
 }
