@@ -1,0 +1,26 @@
+p {
+  text-align:center;
+  margin: 8px;
+  /*margin-top: 1px;*/
+  color: #008080;
+  font-size: large;
+  font-weight: bold;
+}
+
+.tyoginyan {
+  text-align:center;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.aokanSite {
+  text-align:center;
+  margin-top: 15px;
+}
+
+.explanation {
+  font-size: 17px;
+}
+
+a {
+  color: #008080;
+}
